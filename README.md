@@ -7,6 +7,7 @@ still not ready , working in progress
 
 ```
 pip3 install fastapi "uvicorn[standard]"
+pip3 install 'strawberry-graphql[debug-server]'
 ```
 
 ### Run the server
